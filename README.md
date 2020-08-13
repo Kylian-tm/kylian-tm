@@ -1,7 +1,5 @@
 ### <h1 align = "center">👋 Hi! I'm kylian</h1>
 
- ## !!!Do not look at this page this is under construction!!!
-
  ## What am I currently doing? 🧐
 
 - developing a 2D RPG named Soulline - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
