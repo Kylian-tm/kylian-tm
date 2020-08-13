@@ -3,7 +3,7 @@
  ## What am I currently doing? 🧐
 
 - developing a 2D RPG named Soulline - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
-- learning Compatitive-Programming using c++
+- learning Competitive-Programming using c++
 
 
 
