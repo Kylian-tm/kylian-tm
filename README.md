@@ -1,5 +1,5 @@
 
-### <h1 asign = "center">👋 Hi! I'm kylian</h1>
+### <h1 align = "center">👋 Hi! I'm kylian</h1>
 
  ## Do not look at this page this is under construction
 
