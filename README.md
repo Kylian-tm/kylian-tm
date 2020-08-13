@@ -9,6 +9,6 @@
 - learning Competitive-Programming using c++
 
  ## Languages and Tools I use:
- <img src="c++_logo.jpg" width="50" height="50"> <img src="atom_logo.jpg" width="50" height="50">
+ <img src="c++_logo.jpg" width="50" height="50"> <img src="atom_logo.jpg" width="50" height="50"> <img src="linux_logo.jpg" width="50" height="50">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kylian-tm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
