@@ -5,7 +5,7 @@
 - Average typing speed 55 WPM
 - Average typing Accuracy 95%
 
-## What am I currently doing? 🧐
+## What am I currently working on? 🧐
 - Developing a 2D RPG named Soulline - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
 - Learning Competitive-Programming using c++
 
