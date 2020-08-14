@@ -4,6 +4,8 @@
 - I'm 14 year old
 - Average typing speed 55 WPM
 - Average typing Accuracy 95%
+- Beginner c++ developer
+- Planning to study computer Science
 
 ## What am I currently working on? 🧐
 - Developing a 2D RPG named Soulline - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
