@@ -1,7 +1,7 @@
 ### <h1 align = "center">👋 Hi! I'm kylian 👋</h1>
 
 ## About me 🤔
-- I'm 14 years young
+- I am currently 14 years young
 - Average typing speed 55 WPM
 - Average typing Accuracy 95%
 - Beginner C/C++ developer
