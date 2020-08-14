@@ -1,4 +1,4 @@
-### <h1 align = "center">👋 Hi! I'm kylian</h1>
+### <h1 align = "center">👋 Hi! I'm kylian 👋</h1>
 
 ## About me 🤔
 - I'm 14 yo
