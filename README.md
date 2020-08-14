@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/56076746/90243647-8d14c800-de2f-11ea-8706-ff042488c4e7.jpg" width="50"> <!-- atom -->
 <img src="https://user-images.githubusercontent.com/56076746/90243651-8e45f500-de2f-11ea-8879-ecc4daabf68e.jpg" width="50"> <!-- arduino -->
 <img src="https://user-images.githubusercontent.com/56076746/90243660-90a84f00-de2f-11ea-86d9-5a760845cc4b.jpg" width="50"> <!-- linux -->
-<img src="https://user-images.githubusercontent.com/56076746/90243665-930aa900-de2f-11ea-9f9b-a985921e3000.jpg" width="50"> <!-- git -->
+<img src="https://user-images.githubusercontent.com/56076746/90244596-5f308300-de31-11ea-8228-f6cb2180b22e.jpg" width="50"> <!-- git -->
 <img src="https://user-images.githubusercontent.com/56076746/90243665-930aa900-de2f-11ea-9f9b-a985921e3000.jpg" width="50"> <!-- github -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=kylian-tm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
