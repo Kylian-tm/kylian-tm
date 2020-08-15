@@ -13,6 +13,7 @@
 
 ## Languages and Tools I use: 
 <img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" width="50"> <!-- c++ -->
+<img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" width="50"> <!-- sfml -->
 <img src="https://user-images.githubusercontent.com/56076746/90243647-8d14c800-de2f-11ea-8706-ff042488c4e7.jpg" width="50"> <!-- atom -->
 <img src="https://user-images.githubusercontent.com/56076746/90243651-8e45f500-de2f-11ea-8879-ecc4daabf68e.jpg" width="50"> <!-- arduino -->
 <img src="https://user-images.githubusercontent.com/56076746/90243660-90a84f00-de2f-11ea-86d9-5a760845cc4b.jpg" width="50"> <!-- linux -->
