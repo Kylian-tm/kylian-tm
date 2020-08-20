@@ -4,7 +4,7 @@
 - I am currently 14 years young
 - Average typing speed 55 WPM
 - Average typing Accuracy 95%
-- Beginner C/C++ developer
+- C/C++ developer
 - Planning to study computer Science
 
 ## What am I currently working on? 🧐
