@@ -10,7 +10,6 @@
 ## What am I currently working on? 🧐
 - Developing a 2D RPG named Soulline - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
 - Learning Competitive-Programming using C++
-- C++ Networking
 
 ## Languages and Tools I use: 
 <img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" width="50"> <!-- c++ -->
