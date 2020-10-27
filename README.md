@@ -6,7 +6,7 @@
 - Planning to study computer Science
 
 ## What am I currently working on? 🧐
-- Developing a 2D RPG named Soulline - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
+- 3D top down hack'n slash RPG named "Soulline" - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
 - Learning Competitive-Programming using C++
 
 ## You can check me out at
