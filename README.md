@@ -9,6 +9,9 @@
 - Developing a 2D RPG named Soulline - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
 - Learning Competitive-Programming using C++
 
+## You can check me out at
+Codeforces.com: https://codeforces.com/profile/Tr3mor
+
 ## Languages and Tools I use: 
 <img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" width="50"> <!-- c++ -->
 <img src="https://user-images.githubusercontent.com/56076746/90308600-0e786300-dee1-11ea-96ad-df7c00bf9809.jpg" width="50"> <!-- sfml -->
