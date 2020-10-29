@@ -2,7 +2,7 @@
 
 ## About me 🤔
 - I am currently 14 years old
-- C/C++ developer
+- C++ developer
 - Planning to study computer Science
 
 ## What am I currently working on? 🧐
