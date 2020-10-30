@@ -3,7 +3,7 @@
 ## About me 🤔
 - I am currently 14 years old
 - C++ developer
-- Planning to study computer Science
+- Going to study computer Science
 
 ## What am I currently working on? 🧐
 - 3D top down hack'n slash RPG named "Soulline" - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
