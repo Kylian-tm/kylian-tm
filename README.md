@@ -14,6 +14,7 @@ Codeforces: https://codeforces.com/profile/Tr3mor
 
 ## Quotes
 “If you want to live a happy life, tie it to a goal, not to people or things.”-Albert Einstein. 
+
 (kind of stole it from https://github.com/0xPapyrus)
 
 ## Languages and Tools I use: 
