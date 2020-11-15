@@ -15,13 +15,11 @@ Codeforces: https://codeforces.com/profile/Tr3mor
 ## Quotes
 "If you want to live a happy life, tie it to a goal, not to people or things.”       -Albert Einstein. 
 
-(kind of stole it from https://github.com/0xPapyrus)
-
 "We cannot solve our problems with the same thinking we used when we created them."   -Albert Einstein.
 
 "If you can't explain it simply, you don't understand it well enough."                -Albert Einstein.
  
-"Logic will get you from A to B. Imagination will take you everywhere."               -Albert Einstein.
+"Genius is patience."                                                                 -Isaac Newton
 
 ## Languages and Tools I use: 
 <img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" width="50"> <!-- c++ -->
