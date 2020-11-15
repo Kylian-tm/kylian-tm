@@ -1,7 +1,7 @@
 ### <h1 align = "center">👋 Hi! I'm kylian 👋</h1>
 
 ## About me 🤔
-- I am currently 14 years old
+- 14 years old
 - C++ developer
 - Going to study computer Science
 
