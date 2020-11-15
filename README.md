@@ -30,4 +30,6 @@ Codeforces: https://codeforces.com/profile/Tr3mor
 <img src="https://user-images.githubusercontent.com/56076746/90244596-5f308300-de31-11ea-8228-f6cb2180b22e.jpg" width="50"> <!-- git -->
 <img src="https://user-images.githubusercontent.com/56076746/90243665-930aa900-de2f-11ea-9f9b-a985921e3000.jpg" width="50"> <!-- github -->
 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" /></a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=kylian-tm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
