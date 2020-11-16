@@ -16,15 +16,19 @@ Codeforces: https://codeforces.com/profile/Tr3mor
 
 ## Quotes
 > "If you want to live a happy life, tie it to a goal, not to people or things.”       
+
 -Albert Einstein. 
 
 > "We cannot solve our problems with the same thinking we used when we created them."   
+
 -Albert Einstein.
 
 > "If you can't explain it simply, you don't understand it well enough."
+
 -Albert Einstein.
  
 >"Genius is patience."
+
 -Isaac Newton
 
 ## Languages and Tools I use: 
