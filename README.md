@@ -7,6 +7,7 @@
 ## Future plans
 - To study computer Science
 - Maybe learn Assembly
+- Develop an application
 
 ## What am I currently working on? 🧐
 - 3D top down hack'n slash RPG named "Soulline" - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
