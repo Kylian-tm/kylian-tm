@@ -1,6 +1,6 @@
 ## About me
 - 14 years old
-- Self-taught programmer C++ developer
+- Self-taught C++ developer
 
 ## Future plans
 - To study computer Science
