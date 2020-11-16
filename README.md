@@ -2,8 +2,10 @@
 
 ## About me 🤔
 - 14 years old
-- C++ developer
-- Going to study computer Science
+- Self-taught programmer C++ developer
+
+## Futur plans
+- To study computer Science
 - Maybe learn Assembly
 
 ## What am I currently working on? 🧐
