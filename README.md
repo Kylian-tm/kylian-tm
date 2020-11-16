@@ -1,6 +1,4 @@
-### <h1 align = "center">👋 Hi! I'm kylian 👋</h1>
-
-## About me 🤔
+## About me
 - 14 years old
 - Self-taught programmer C++ developer
 
@@ -9,7 +7,7 @@
 - Maybe learn Assembly
 - Develop an application
 
-## What am I currently working on? 🧐
+## What am I currently working on? 
 - 3D top down hack'n slash RPG named "Soulline" - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
 - Learning Competitive-Programming using C++
 
