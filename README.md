@@ -4,7 +4,7 @@
 - 14 years old
 - Self-taught programmer C++ developer
 
-## Futur plans
+## Future plans
 - To study computer Science
 - Maybe learn Assembly
 
