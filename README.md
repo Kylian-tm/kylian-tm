@@ -23,8 +23,6 @@ Codeforces: https://codeforces.com/profile/Tr3mor
  
 > "Genius is patience."                                                                 -Isaac Newton
 
-> "People don't care about what you say, they care about what you build."               - Mark Zuckerberg
-
 ## Languages and Tools I use: 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" width="50"/></a> <!-- c++ -->
 <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)"><img src="https://user-images.githubusercontent.com/56076746/99189649-82d1d500-2762-11eb-97bb-089bf6c2a30a.jpg" width="50"/></a> <!-- vim -->
