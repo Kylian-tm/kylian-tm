@@ -15,21 +15,15 @@
 Codeforces: https://codeforces.com/profile/Tr3mor
 
 ## Quotes
-> "If you want to live a happy life, tie it to a goal, not to people or things.”       
+> "If you want to live a happy life, tie it to a goal, not to people or things.”       -Albert Einstein. 
 
--Albert Einstein. 
+> "We cannot solve our problems with the same thinking we used when we created them."   -Albert Einstein.
 
-> "We cannot solve our problems with the same thinking we used when we created them."   
-
--Albert Einstein.
-
-> "If you can't explain it simply, you don't understand it well enough."
-
--Albert Einstein.
+> "If you can't explain it simply, you don't understand it well enough."                -Albert Einstein.
  
->"Genius is patience."
+> "Genius is patience."                                                                 -Isaac Newton
 
--Isaac Newton
+> "People don't care about what you say, they care about what you build."               - Mark Zuckerberg
 
 ## Languages and Tools I use: 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" width="50"/></a> <!-- c++ -->
