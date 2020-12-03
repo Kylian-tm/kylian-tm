@@ -15,7 +15,7 @@
 Codeforces: https://codeforces.com/profile/Tr3mor
 
 ## Quotes
-> "If you want to live a happy life, tie it to a goal, not to people or things.”       -Albert Einstein. 
+> "If you want to live a happy life, tie it to a goal, not to people or things.”        -Albert Einstein. 
 
 > "If you can't explain it simply, you don't understand it well enough."                -Albert Einstein.
 
@@ -25,5 +25,4 @@ Codeforces: https://codeforces.com/profile/Tr3mor
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://user-images.githubusercontent.com/56076746/99189715-c9273400-2762-11eb-83af-e2b29d02d68a.jpg" width="50"/></a> <!-- vscode -->
 <a href="https://en.wikipedia.org/wiki/Arduino_IDE"><img src="https://user-images.githubusercontent.com/56076746/90243651-8e45f500-de2f-11ea-8879-ecc4daabf68e.jpg" width="50"/></a> <!-- arduino -->
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://user-images.githubusercontent.com/56076746/90243660-90a84f00-de2f-11ea-86d9-5a760845cc4b.jpg" width="50"/></a> <!-- linux -->
-<a href="https://en.wikipedia.org/wiki/Git"><img src="https://user-images.githubusercontent.com/56076746/90244596-5f308300-de31-11ea-8228-f6cb2180b22e.jpg" width="50"/></a> <!-- git -->
 <a href="https://en.wikipedia.org/wiki/Github"><img src="https://user-images.githubusercontent.com/56076746/90243665-930aa900-de2f-11ea-9f9b-a985921e3000.jpg" width="50"/></a> <!-- github -->
