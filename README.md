@@ -11,9 +11,6 @@
 - 3D top down hack'n slash RPG named "Soulline" - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
 - Learning Competitive-Programming using C++
 
-## You can check me out at
-Codeforces: https://codeforces.com/profile/Tr3mor
-
 ## Quotes
 > "If you want to live a happy life, tie it to a goal, not to people or things.”        -Albert Einstein. 
 
