@@ -4,7 +4,7 @@
 
 ## Future plans
 - To study computer Science
-- Maybe learn Assembly
+- Maybe learn Assembly and SQL
 - Develop an application
 
 ## What am I currently working on? 
