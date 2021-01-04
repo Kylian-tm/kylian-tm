@@ -4,7 +4,8 @@
 
 ## Future plans
 - To study computer Science
-- Maybe learn Assembly and SQL
+- Learn Assembly, SQL
+- Advance in arduino dev
 - Develop an application
 
 ## What am I currently working on? 
