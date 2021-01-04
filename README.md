@@ -10,7 +10,7 @@
 ## What am I currently working on? 
 - 3D top down hack'n slash RPG named "Soulline" - [itch.io - Soulline](https://soulworks.itch.io) 🎮 🌐
 - Learning Competitive-Programming using C++
-- Developing max (check it out in my repos)
+- Developing [max](https://github.com/Kylian-tm/max-Virtual-Assistant)
 
 ## Quotes
 > "If you want to live a happy life, tie it to a goal, not to people or things.”        -Albert Einstein. 
