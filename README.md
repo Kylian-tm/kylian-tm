@@ -1,13 +1,3 @@
-## About me
-- 14 years old
-- Self-taught C++ developer
-
-## Future plans
-- To study computer Science
-- Learn Assembly, SQL
-- Advance in arduino dev
-- Develop an application
-
 ## Quotes
 > "If you want to live a happy life, tie it to a goal, not to people or things.”        -Albert Einstein. 
 
