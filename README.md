@@ -1,9 +1,3 @@
-## Quotes
-> "If you want to live a happy life, tie it to a goal, not to people or things.”        -Albert Einstein. 
-
-> "If you can't explain it simply, you don't understand it well enough."                -Albert Einstein.
-
-## Languages and Tools I use for programming: 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://user-images.githubusercontent.com/56076746/90243631-871ee700-de2f-11ea-84f7-5f9561cec9d3.jpg" width="50"/></a> <!-- c++ -->
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://user-images.githubusercontent.com/56076746/99189715-c9273400-2762-11eb-83af-e2b29d02d68a.jpg" width="50"/></a> <!-- vscode -->
 <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)#Neovim"><img src="https://user-images.githubusercontent.com/56076746/102712038-6b848b00-42be-11eb-849c-00b7f745a04b.jpg" width="50"/></a> <!-- neovim -->
